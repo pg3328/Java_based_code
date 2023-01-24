@@ -1,0 +1,27 @@
+Problem 1: This is a compilation Error. Here the file name is different from that of the class name.
+	   Hence, the compiler is not accepting the class. 
+
+Problem 2: This is a compilation Error(Incompatibility Error). In this instance, This occured as the data type of variable 
+	   is different from that of the assigned value of the variable.
+
+Problem 3: This is a Runtime Error(Arthemetic Expection error). This has occured due to the denominator in a division is zero,
+	   which is considered a wrong operation. 
+
+Problem 4: This is a Compilation error (Identifier expected). When declaring attributes of a method java expects that each attribute
+	   to have independent declarations. 
+
+Problem 5: This is a Compilation error (Missing Return Statement). Although else statement following an if is not mandatory the method declared expecting 
+           a data to be returned expects a return statement at all times.In this case if y<x there has no return value. Hence, compilation error. 
+
+Problem 6: This is a runtime error.As the array list is dynamic and only allocates the space for initial capacity and doesn't store anything, when we
+	   try to retreive the data from array of zero length the runtime error persists. 
+
+Problem 7: This is a Compilation Error (Incompatibility Error). In this instance, This occured as data type char (single quote) is assigned 
+	   with String (double quotes). 
+
+Problem 8: This is a Compilation Error (Initialization Error). In this instance, variable j used an assignment value of k before declaration. 
+
+Problem 9: This is a Compilation Error(Incompatibility Error). In this instance, This occured as data type float is assinged with double 
+           (0.0 is double while 0.0f is float)value. 
+
+Problem 10: This is a Runtime Error. In this instance, expecting the output from out of bound string. 

@@ -1,0 +1,160 @@
+S
+##########################################
+##########       NEW HAND      ###########
+##########################################
+
+== Shuffling
+== Dealing Cards
+
+==============  Your Cards  ========
+      --------
+ ----| 8D     |
+| 7C |        |
+Total:119
+
+Do you want to stand (y/n)? n
+==============  House Cards ========
+      --------
+ ----| 5S     |
+    |10C |        |
+Total:145
+
+
+  ---- House Won ----
+
+Do you wish to play another hand (y/n):y
+
+##########################################
+##########       NEW HAND      ###########
+##########################################
+
+== Shuffling
+== Dealing Cards
+
+==============  Your Cards  ========
+      --------
+ ----| KS     |
+| QH |        |
+Total:194
+
+Computer Folds
+==============  House Cards ========
+      --------
+ ----| 8S     |
+| 6D |        |
+Total:118
+
+
+  **** Human Won ****
+
+Do you wish to play another hand (y/n):y
+
+##########################################
+##########       NEW HAND      ###########
+##########################################
+
+== Shuffling
+== Dealing Cards
+
+==============  Your Cards  ========
+      --------
+ ----| 3C     |
+| 3S |        |
+Total:1045
+
+Do you want to stand (y/n)? y
+Computer Stands
+==============  House Cards ========
+      --------
+ ----| 4D     |
+| 9D |        |
+Total:630
+
+
+  **** Human Won ****
+
+Do you wish to play another hand (y/n):y
+
+##########################################
+##########       NEW HAND      ###########
+##########################################
+
+== Shuffling
+== Dealing Cards
+
+==============  Your Cards  ========
+      --------
+ ----| 4D     |
+| JS |        |
+Total:158
+
+Computer Stands
+Do you want to stand (y/n)? n
+==============  House Cards ========
+      --------
+ ----| 2S     |
+| KH |        |
+Total:184
+
+
+  ---- House Won ----
+
+Do you wish to play another hand (y/n):y
+
+##########################################
+##########       NEW HAND      ###########
+##########################################
+
+== Shuffling
+== Dealing Cards
+
+==============  Your Cards  ========
+      --------
+ ----| QC     |
+| QS |        |
+Total:1180
+
+Do you want to stand (y/n)? y
+Computer Stands
+==============  House Cards ========
+      --------
+ ----| AH     |
+|10C |        |
+Total:206
+
+
+  **** Human Won ****
+
+Do you wish to play another hand (y/n):y
+
+##########################################
+##########       NEW HAND      ###########
+##########################################
+
+== Shuffling
+== Dealing Cards
+
+==============  Your Cards  ========
+      --------
+ ----| 3S     |
+| QH |        |
+Total:171
+
+Computer Stands
+Do you want to stand (y/n)? y
+==============  House Cards ========
+      --------
+ ----| 5H     |
+| AD |        |
+Total:201
+
+
+  ---- House Won ----
+
+Do you wish to play another hand (y/n):n
+========== Results ==========
+Games:	6
+Wins:	3
+Ties:	0
+
+Process finished with exit code 0
